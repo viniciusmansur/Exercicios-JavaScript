@@ -1,5 +1,5 @@
-alert("Hello World!")
-console.log("Hello World!")
-x = prompt("Qual é o seu nome")
-confirm("Você tem certeza disso?")
-alert(x)
+alert("Hello World!");
+console.log("Hello World!");
+x = prompt("Qual é o seu nome");
+confirm("Você tem certeza disso?");
+alert(x);

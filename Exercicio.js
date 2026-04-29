@@ -1,3 +1,4 @@
+//Exercíco 1
 // let nome = prompt("Digite um texto")
 
 // function limpeza (texto){
@@ -8,6 +9,7 @@
 
 // console.log(limpeza(nome))
 
+//Exercício 2
 let nome = prompt("Digite um texto")
 
 function formatacao (texto) {
@@ -18,7 +20,7 @@ function formatacao (texto) {
         return texto
     } 
     
-    return "erro"
+    return texto
 }
 
 console.log(formatacao(nome))
